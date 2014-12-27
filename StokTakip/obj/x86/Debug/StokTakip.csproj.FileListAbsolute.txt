@@ -1,0 +1,16 @@
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.Properties.Resources.resources
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.exe
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.pdb
+c:\users\mchica\documents\visual studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.UrunEkle.resources
+C:\Users\mChiCa\Documents\Visual Studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.satis.resources
+C:\Users\mChiCa\Documents\Visual Studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.anaForm.resources
+C:\Users\mChiCa\Documents\Visual Studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.frmMusteri.resources
+C:\Users\mChiCa\Documents\Visual Studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.frmStok.resources
+C:\Users\mChiCa\Documents\Visual Studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.frmGunluksatis.resources
+C:\Users\mChiCa\Documents\Visual Studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.frmMusteriler.resources
+C:\Users\mChiCa\Documents\Visual Studio 2010\Projects\StokTakip\StokTakip\obj\x86\Debug\StokTakip.frmAyliksatis.resources
