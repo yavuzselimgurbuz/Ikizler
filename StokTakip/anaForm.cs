@@ -20,11 +20,6 @@ namespace StokTakip
         Classes.Ekranlar ekran = new Classes.Ekranlar();
         Classes.MesajKutusu mesaj = new Classes.MesajKutusu();
         #endregion
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
         }
